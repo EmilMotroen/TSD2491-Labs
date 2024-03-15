@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace SloppyJoesWPF
 {
@@ -24,7 +22,7 @@ namespace SloppyJoesWPF
             string randomBread = Breads[Randomizer.Next(Breads.Length)];
             Description = randomProtein + " with " + randomCondiment + " on " + randomBread;
 
-            decimal bucks = Randomizer.Next(2, 5);
+            decimal bucks = Randomizer.Next(49, 99);
             decimal cents = Randomizer.Next(1, 98);
             decimal price = bucks + (cents * .01M);
             Price = price.ToString("c");
