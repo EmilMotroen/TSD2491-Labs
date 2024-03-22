@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeehiveManagementSystemBlaz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFish", "GoFish\GoFish.csproj", "{01A16D87-46ED-45B8-AE65-C1716F0A57E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFishTest", "GoFishTest\GoFishTest.csproj", "{58EA4BFB-4214-42C2-BC91-D66FF5A48F5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{01A16D87-46ED-45B8-AE65-C1716F0A57E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01A16D87-46ED-45B8-AE65-C1716F0A57E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01A16D87-46ED-45B8-AE65-C1716F0A57E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58EA4BFB-4214-42C2-BC91-D66FF5A48F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EA4BFB-4214-42C2-BC91-D66FF5A48F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EA4BFB-4214-42C2-BC91-D66FF5A48F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EA4BFB-4214-42C2-BC91-D66FF5A48F5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
