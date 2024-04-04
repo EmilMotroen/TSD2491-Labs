@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GoFish\Lab 11 - GoFish.csproj" />
+    <ProjectReference Include="..\GoFish\GoFish.csproj" />
   </ItemGroup>
 
   <ItemGroup>
