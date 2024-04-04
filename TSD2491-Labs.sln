@@ -5,29 +5,25 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TSD2491-Labs", "TSD2491-Labs\TSD2491-Labs.csproj", "{DA63899E-C13E-4560-B2A9-614B1810EAC0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PickRandomCards", "PickRandomCards\PickRandomCards.csproj", "{E8B3731E-2E9C-409F-88E8-ADF76CD75499}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 1 - PickRandomCards", "PickRandomCards\Lab 1 - PickRandomCards.csproj", "{E8B3731E-2E9C-409F-88E8-ADF76CD75499}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JoeAndBob", "JoeAndBob\JoeAndBob.csproj", "{01FF2B31-A79C-4F1F-9D03-874A1C544DCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 2 - JoeAndBob", "JoeAndBob\Lab 2 - JoeAndBob.csproj", "{01FF2B31-A79C-4F1F-9D03-874A1C544DCD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbilityScore", "AbilityScore\AbilityScore.csproj", "{541D3A05-C7C9-46D1-A585-5275EBAD96CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 3 - AbilityScore", "AbilityScore\Lab 3 - AbilityScore.csproj", "{541D3A05-C7C9-46D1-A585-5275EBAD96CB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElephantExercise", "ElephantExercise\ElephantExercise.csproj", "{49B1AD93-FE34-4C58-9E57-FD3EE15028BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 4 - ElephantExercise", "ElephantExercise\Lab 4 - ElephantExercise.csproj", "{49B1AD93-FE34-4C58-9E57-FD3EE15028BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SloppyJoesWPF", "SloppyJoesWPF\SloppyJoesWPF.csproj", "{1786288E-44ED-4667-B93E-0E2495BD6F7D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 5 - SloppyJoesWPF", "SloppyJoesWPF\Lab 5 - SloppyJoesWPF.csproj", "{1786288E-44ED-4667-B93E-0E2495BD6F7D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SloppyJoesBlazor", "SloppyJoesBlazor\SloppyJoesBlazor.csproj", "{6B7E7B4B-B05D-49A9-BE80-3B65ED2ACBB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 6 - HiLo", "HiLo\Lab 6 - HiLo.csproj", "{754D29E8-67E5-42F7-8310-6824028B64C7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HiLo", "HiLo\HiLo.csproj", "{754D29E8-67E5-42F7-8310-6824028B64C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 7 - SwordDamageWPF", "SwordDamageWPF\Lab 7 - SwordDamageWPF.csproj", "{2A6AFC9B-F691-4AAC-94BC-434E7516AA7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwordDamageWPF", "SwordDamageWPF\SwordDamageWPF.csproj", "{2A6AFC9B-F691-4AAC-94BC-434E7516AA7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 11 - GoFish", "GoFish\Lab 11 - GoFish.csproj", "{01A16D87-46ED-45B8-AE65-C1716F0A57E0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeehiveManagementSystemBlazor", "BeehiveManagementSystemBlazor\BeehiveManagementSystemBlazor.csproj", "{12ABD438-DB36-4E41-AF96-A55E9DB44EF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 11 - GoFishTest", "GoFishTest\Lab 11 - GoFishTest.csproj", "{58EA4BFB-4214-42C2-BC91-D66FF5A48F5C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoFish", "GoFish\GoFish.csproj", "{01A16D87-46ED-45B8-AE65-C1716F0A57E0}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoFishTest", "GoFishTest\GoFishTest.csproj", "{58EA4BFB-4214-42C2-BC91-D66FF5A48F5C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoDecksWPF", "TwoDecksWPF\TwoDecksWPF.csproj", "{FFE08844-AC74-4959-8896-DC6F0F7DE387}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 10 - TwoDecksWPF", "TwoDecksWPF\Lab 10 - TwoDecksWPF.csproj", "{FFE08844-AC74-4959-8896-DC6F0F7DE387}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,10 +55,6 @@ Global
 		{1786288E-44ED-4667-B93E-0E2495BD6F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1786288E-44ED-4667-B93E-0E2495BD6F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1786288E-44ED-4667-B93E-0E2495BD6F7D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6B7E7B4B-B05D-49A9-BE80-3B65ED2ACBB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6B7E7B4B-B05D-49A9-BE80-3B65ED2ACBB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6B7E7B4B-B05D-49A9-BE80-3B65ED2ACBB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6B7E7B4B-B05D-49A9-BE80-3B65ED2ACBB8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{754D29E8-67E5-42F7-8310-6824028B64C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{754D29E8-67E5-42F7-8310-6824028B64C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{754D29E8-67E5-42F7-8310-6824028B64C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -71,10 +63,6 @@ Global
 		{2A6AFC9B-F691-4AAC-94BC-434E7516AA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A6AFC9B-F691-4AAC-94BC-434E7516AA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A6AFC9B-F691-4AAC-94BC-434E7516AA7A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{12ABD438-DB36-4E41-AF96-A55E9DB44EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12ABD438-DB36-4E41-AF96-A55E9DB44EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12ABD438-DB36-4E41-AF96-A55E9DB44EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12ABD438-DB36-4E41-AF96-A55E9DB44EF7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{01A16D87-46ED-45B8-AE65-C1716F0A57E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{01A16D87-46ED-45B8-AE65-C1716F0A57E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01A16D87-46ED-45B8-AE65-C1716F0A57E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
