@@ -23,9 +23,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwordDamageWPF", "SwordDama
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeehiveManagementSystemBlazor", "BeehiveManagementSystemBlazor\BeehiveManagementSystemBlazor.csproj", "{12ABD438-DB36-4E41-AF96-A55E9DB44EF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFish", "GoFish\GoFish.csproj", "{01A16D87-46ED-45B8-AE65-C1716F0A57E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoFish", "GoFish\GoFish.csproj", "{01A16D87-46ED-45B8-AE65-C1716F0A57E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFishTest", "GoFishTest\GoFishTest.csproj", "{58EA4BFB-4214-42C2-BC91-D66FF5A48F5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoFishTest", "GoFishTest\GoFishTest.csproj", "{58EA4BFB-4214-42C2-BC91-D66FF5A48F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoDecksWPF", "TwoDecksWPF\TwoDecksWPF.csproj", "{FFE08844-AC74-4959-8896-DC6F0F7DE387}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{58EA4BFB-4214-42C2-BC91-D66FF5A48F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58EA4BFB-4214-42C2-BC91-D66FF5A48F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58EA4BFB-4214-42C2-BC91-D66FF5A48F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE08844-AC74-4959-8896-DC6F0F7DE387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE08844-AC74-4959-8896-DC6F0F7DE387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE08844-AC74-4959-8896-DC6F0F7DE387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE08844-AC74-4959-8896-DC6F0F7DE387}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
